@@ -19,4 +19,9 @@
   - app端点击无反应: 注意子级不要直接改父级内容--应该子传父-在父级改    
   - 小程序端无法预览: 包>2M：分包加载--图片云存储          
 ### 运行效果
-![image](https://github.com/xingzhegudu123/uni-app-mall/tree/master/static/home.png)
+![image](https://github.com/xingzhegudu123/uni-app-mall/blob/master/static/githubImg/home.png)
+![image](https://github.com/xingzhegudu123/uni-app-mall/blob/master/static/githubImg/caterage.png)
+![image](https://github.com/xingzhegudu123/uni-app-mall/blob/master/static/githubImg/detail.png)
+![image](https://github.com/xingzhegudu123/uni-app-mall/blob/master/static/githubImg/commen.png)
+![image](https://github.com/xingzhegudu123/uni-app-mall/blob/master/static/githubImg/car.png)
+![image](https://github.com/xingzhegudu123/uni-app-mall/blob/master/static/githubImg/vft.png)
